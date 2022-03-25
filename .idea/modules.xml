@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Daily_Python_Code/.idea/Daily_Python_Code.iml" filepath="$PROJECT_DIR$/../Daily_Python_Code/.idea/Daily_Python_Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ML_Playground.iml" filepath="$PROJECT_DIR$/.idea/ML_Playground.iml" />
     </modules>
   </component>
